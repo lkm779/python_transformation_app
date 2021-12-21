@@ -79,13 +79,7 @@ Create environment and install the required dependencies mentioned in the techno
 
 You are done!the React project in the new folder that's created.
 
-## Usage
 
-How does one go about using it?
-
-
-User-Story link: https://miro.com/app/board/o9J_lxcfQSE=/
-Wireframe link: https://miro.com/app/board/o9J_lxcfQSE=/
 
 ## Project Status
 
