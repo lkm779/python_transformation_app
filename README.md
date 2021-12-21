@@ -91,25 +91,10 @@ You are done!the React project in the new folder that's created.
 -Data: The large quantity of data 
 
 
-## Room for Improvement
-
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-The main areas to be improved are
-• Design
-• Cohesion
-
-
-
-And some Stretch Goals
-• 
 
 ## Acknowledgements
 
 - This project was based on:
-
-https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/
-https://blog.softhints.com/how-to-merge-multiple-csv-files-with-python/
 https://www.youtube.com/
 
 And all the documentation available on Aula in addition to the prerecorded sessions.
