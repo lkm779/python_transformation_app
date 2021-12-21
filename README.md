@@ -1,11 +1,11 @@
 # python_transformation_app
-#Data Cleaning
+# Data Cleaning
 
 > This is a project based on the guidance provided by the client in which different data is analysed, filtered and transformed and implemented in a Dash app for the client to experience visual data charts
 
 
 
-##Project Brief
+## Project Brief
 The Client is the administration of a retail 
 store which is interested in using data collected over time from their various branches to understand consumer behaviour in the different regions of the country.
 Our plan is to create interactive visualisations for them generated from their data which tells a story about their customers. 
