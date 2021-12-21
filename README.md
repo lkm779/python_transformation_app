@@ -81,14 +81,26 @@ You are done!the React project in the new folder that's created.
 
 
 
-## Project Status
-
 
 ## Challenges:
--Planning: One of the main issues I had from the beginning was the planning in terms of filtering the data dividing and calculating the time for both parts of the project 
--Restructuring: At the same time this issues contributed of failing to deliver one unique project and that´s one of the reasosn why i had to build several projects from scratch.
--Main challenge: Manipulating the first raw data folders. Basically dividing both CSV and JSON folders into two, to then create separate concatenated tables of all of the files included in the folders with their respectively branch names.
--Data: The large quantity of data 
+-Timing and planning: Timing was challenging, in the sense of setting realistic deadlines or task in time hence the dimensions, requirements, and dependencies of the project. 
+-Manipulation: Manipulating the first raw data folders. Basically dividing both CSV and JSON folders into two, to then create separate concatenated tables of all of the files included in the folders with their respectively branch names as columns.
+-Data: The large quantity of data it did present as a challenge, as waiting times on jupyter kernel notebook for outputs sometimes took up to 10 minutes to load.
+
+
+
+## Room for Improvement
+
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+The main areas to be improved are
+• Reduce files size by clearing unused orirrelevant data to improve loading times, efficiency and flow.
+• Improve cohesion between all of the data folders and outputs
+• More descriptive documentation and comments as well as structured code
+
+
+And some Stretch Goals
+• Allow users to observe an interactive map of stores performance by region
 
 
 
@@ -96,5 +108,5 @@ You are done!the React project in the new folder that's created.
 
 - This project was based on:
 https://www.youtube.com/
-
+https://petl.readthedocs.io/en/stable/index.html
 And all the documentation available on Aula in addition to the prerecorded sessions.
